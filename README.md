@@ -1,7 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anatolii</h1>
 <h3 align="center">A passionate C# and Java developer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkbeer0&label=Profile%20views&color=0e75b6&style=flat" alt="darkbeer0" /> </p>
 
 <h3 align="left">Connect with me:</h3>
