@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anatolii</h1>
 <h3 align="center">C# and Java developer from Poland</h3>
-<h4 align="center">Programming for me is a dream since childhood, as a child I was inspired by games and I dreamed one day to add to my favorite games those little nuances and features that I lacked so much.
-I love making games, so in my free time I develop in Unity (C#) and Unreal. I also like to create mobile games with Android Studio.</h4>
+<h4 align="center">Programming for me is the biggest childhood dream. When I was a kid, I was inspired by games a lot, and wished that one day I'll be able to improve my favorite games with my own features, that would improve the experience for me. 
+I grew up to love developing games, so in my free time I work on my little projects in Unity (C#) and Unreal, or with Android Studio.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkbeer0&label=Profile%20views&color=0e75b6&style=flat" alt="darkbeer0" /> </p>
 
