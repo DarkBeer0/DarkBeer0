@@ -12,7 +12,7 @@
 
 ### About me
 
-Programming has been my biggest dream since childhood -- inspired by games, I wanted to build worlds of my own. That passion grew into full-stack and mobile development, where I now build products from idea to deployment.
+Programming has been my biggest dream since childhood &mdash; inspired by games, I wanted to build worlds of my own. That passion grew into full-stack and mobile development, where I now build products from idea to deployment.
 
 - Building **SaaS platforms**, **mobile apps with AI**, and **geo-games**
 - Working across **Next.js**, **Flutter**, **React Native**, and **Go**
@@ -107,12 +107,13 @@ Programming has been my biggest dream since childhood -- inspired by games, I wa
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkbeer0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkbeer0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" height="170" />
+  <a href="https://github.com/darkbeer0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkbeer0&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkbeer0&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darkbeer0&theme=tokyonight" width="100%" />
 </p>
 
 ---
@@ -120,6 +121,10 @@ Programming has been my biggest dream since childhood -- inspired by games, I wa
 ### Connect with me
 
 <p align="center">
+  <a href="mailto:anatoliimeronytskyi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-anatoliimeronytskyi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://discord.gg/darkbeer/">
     <img src="https://img.shields.io/badge/Discord-darkbeer-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
