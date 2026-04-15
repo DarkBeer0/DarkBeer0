@@ -1,33 +1,132 @@
-<h1 align="center">Hi 👋, I'm Anatolii</h1>
-<h3 align="center">C# and Java developer from Poland</h3>
-<h4 align="center">Programming for me is the biggest childhood dream. When I was a kid, I was inspired by games a lot, and wished that one day I'll be able to improve my favorite games with my own features, that would improve the experience for me. 
-I grew up to love developing games, so in my free time I work on my little projects in Unity (C#) and Unreal, or with Android Studio.</h4>
+<h1 align="center">Hey there, I'm Anatolii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkbeer0&label=Profile%20views&color=0e75b6&style=flat" alt="darkbeer0" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/darkbeer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darkbeer" height="30" width="40" />darkbeer</a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Full-Stack+%26+Mobile+Developer;Next.js+%7C+Flutter+%7C+React+Native+%7C+Go;Building+apps+that+solve+real+problems;From+game+dev+dreams+to+production+code" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darkbeer0&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="darkbeer0" />
+</p>
+
+---
+
+### About me
+
+Programming has been my biggest dream since childhood -- inspired by games, I wanted to build worlds of my own. That passion grew into full-stack and mobile development, where I now build products from idea to deployment.
+
+- Building **SaaS platforms**, **mobile apps with AI**, and **geo-games**
+- Working across **Next.js**, **Flutter**, **React Native**, and **Go**
+- Background in **C#/Unity** game development and **Java/Spring** backend
+- Based in Poland
+
+---
+
+### Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Flatro</h3>
+      <p><em>Property Management SaaS</em></p>
+      <p>Full-featured platform for landlords and tenants. Contracts, payments, Stripe Connect, tax calculator, 7 languages, 9 regions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      </p>
+      <a href="https://flatro-orpin.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge" /></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>Calora</h3>
+      <p><em>AI Calorie Tracker</em></p>
+      <p>Mobile app with AI food recognition, macro/micro tracking, water intake, exercises, streak system. Offline-first, 3 languages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>TurfStep</h3>
+      <p><em>Geo-Gaming App</em></p>
+      <p>Explore the real world through fog-of-war and compete in PVP territory capture. Walk to reveal the map, draw routes to claim land.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4 align="center">Frontend & Mobile</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,flutter,dart" />
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind,cs,unity" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">Backend & Data</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=go,java,spring,dotnet,postgres" />
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=supabase,prisma,mysql" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">Tools & DevOps</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=docker,vercel,firebase,redis,git" />
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=androidstudio,blender" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darkbeer0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkbeer0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkbeer0&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+</p>
+
+---
+
+### Connect with me
+
+<p align="center">
+  <a href="https://discord.gg/darkbeer/">
+    <img src="https://img.shields.io/badge/Discord-darkbeer-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
+</p>
