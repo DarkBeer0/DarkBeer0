@@ -15,7 +15,7 @@
 Programming has been my dream since childhood &mdash; games made me want to build worlds of my own. Today I build web interfaces with **React and TypeScript**.
 
 - 💼 **Frontend Developer at Andersen** &mdash; internal CRM on React 19, TypeScript, Redux Toolkit & RTK Query, working in a Scrum team
-- 🎮 **2+ years of C#/.NET** before frontend &mdash; backend systems for a large multiplayer game server
+- 🎮 **C#/.NET** before frontend &mdash; backend systems for a large multiplayer game server
 - 🎓 **Master's student in IT** (WSB Merito, Warsaw) &mdash; thesis on Next.js rendering strategies: CSR vs SSR vs SSG vs ISR
 - 🌱 Currently learning **Node.js** and going deeper into testing and component architecture
 
